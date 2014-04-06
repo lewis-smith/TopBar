@@ -56,8 +56,8 @@
 		F60A0FFF17E8A378008275C9 /* TLBSlidersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLBSlidersViewController.h; sourceTree = "<group>"; };
 		F60A100017E8A378008275C9 /* TLBSlidersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLBSlidersViewController.m; sourceTree = "<group>"; };
 		F660E25418F14F7800284D7A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		F6BC9F6017E96DF5000AD65F /* TLBDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLBDemoViewController.h; sourceTree = "<group>"; };
-		F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLBDemoViewController.m; sourceTree = "<group>"; };
+		F6BC9F6017E96DF5000AD65F /* TLBDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TLBDemoViewController.h; path = ../TLBDemoViewController.h; sourceTree = "<group>"; };
+		F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TLBDemoViewController.m; path = ../TLBDemoViewController.m; sourceTree = "<group>"; };
 		F6FAC6E817E989E9006EDBB4 /* Topbar-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Topbar-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,8 +88,6 @@
 		F60A0FB917E89B1B008275C9 = {
 			isa = PBXGroup;
 			children = (
-				F6BC9F6017E96DF5000AD65F /* TLBDemoViewController.h */,
-				F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */,
 				F60A0FCB17E89B1B008275C9 /* NavBar */,
 				F60A0FED17E89B1B008275C9 /* NavBarTests */,
 				F60A0FC417E89B1B008275C9 /* Frameworks */,
@@ -121,6 +119,8 @@
 		F60A0FCB17E89B1B008275C9 /* NavBar */ = {
 			isa = PBXGroup;
 			children = (
+				F6BC9F6017E96DF5000AD65F /* TLBDemoViewController.h */,
+				F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */,
 				F60A0FD417E89B1B008275C9 /* TLBAppDelegate.h */,
 				F60A0FD517E89B1B008275C9 /* TLBAppDelegate.m */,
 				F60A0FD717E89B1B008275C9 /* Main.storyboard */,
