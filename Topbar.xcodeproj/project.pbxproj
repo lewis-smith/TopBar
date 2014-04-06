@@ -21,6 +21,7 @@
 		F60A0FF217E89B1B008275C9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F60A0FF017E89B1B008275C9 /* InfoPlist.strings */; };
 		F60A0FF417E89B1B008275C9 /* NavBarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F60A0FF317E89B1B008275C9 /* NavBarTests.m */; };
 		F60A100117E8A378008275C9 /* TLBSlidersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F60A100017E8A378008275C9 /* TLBSlidersViewController.m */; };
+		F660E25518F14F7800284D7A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = F660E25418F14F7800284D7A /* README.md */; };
 		F6BC9F6217E96DF5000AD65F /* TLBDemoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */; };
 		F6FAC6E917E989E9006EDBB4 /* Topbar-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F6FAC6E817E989E9006EDBB4 /* Topbar-Info.plist */; };
 /* End PBXBuildFile section */
@@ -54,6 +55,7 @@
 		F60A0FF317E89B1B008275C9 /* NavBarTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavBarTests.m; sourceTree = "<group>"; };
 		F60A0FFF17E8A378008275C9 /* TLBSlidersViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLBSlidersViewController.h; sourceTree = "<group>"; };
 		F60A100017E8A378008275C9 /* TLBSlidersViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLBSlidersViewController.m; sourceTree = "<group>"; };
+		F660E25418F14F7800284D7A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		F6BC9F6017E96DF5000AD65F /* TLBDemoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLBDemoViewController.h; sourceTree = "<group>"; };
 		F6BC9F6117E96DF5000AD65F /* TLBDemoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLBDemoViewController.m; sourceTree = "<group>"; };
 		F6FAC6E817E989E9006EDBB4 /* Topbar-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Topbar-Info.plist"; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				F60A0FED17E89B1B008275C9 /* NavBarTests */,
 				F60A0FC417E89B1B008275C9 /* Frameworks */,
 				F60A0FC317E89B1B008275C9 /* Products */,
+				F660E25418F14F7800284D7A /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -240,6 +243,7 @@
 			files = (
 				F6FAC6E917E989E9006EDBB4 /* Topbar-Info.plist in Resources */,
 				F60A0FE117E89B1B008275C9 /* Images.xcassets in Resources */,
+				F660E25518F14F7800284D7A /* README.md in Resources */,
 				F60A0FD017E89B1B008275C9 /* InfoPlist.strings in Resources */,
 				F60A0FD917E89B1B008275C9 /* Main.storyboard in Resources */,
 			);
